@@ -1,0 +1,1 @@
+[{"id": "1", "email": "owner@bakery.com", "full_name": "System Owner", "password": "123", "role": "Owner"}, {"id": "2", "email": "employee@bakery.com", "full_name": "System Employee", "password": "1234", "role": "Employee"}, {"id": 3, "email": "employe2@bakery.com", "full_name": "Joe Smith", "password": "12345", "role": "Employee"}]
